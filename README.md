@@ -1,9 +1,3 @@
-Guardian del Futuro 🚀
-
-Repositorio personal de **ciberseguridad** creado por Walter.  
-Aquí encontrarás herramientas prácticas, informes y scripts diseñados para aprender y aplicar segurida>
-
----
 
 ## 📡 HXG Scan Pro
 
@@ -15,17 +9,13 @@ Aquí encontrarás herramientas prácticas, informes y scripts diseñados para a
 - Genera un informe en **HTML** con diseño profesional.
 - Abre el informe directamente en el navegador.
 
+### 🔧 Requisitos
+- Linux (probado en Ubuntu 22.04)
+- `nmap`
+- `arp-scan`
+- Navegador web (Firefox, Chrome, Brave, Edge)
+
 ### ▶️ Ejecución
 ```bash
 chmod +x hxg_scan_pro.sh
-./hxg_scan_pro.sh# 
----
-
-## 🎯 Objetivo del repositorio
-Este proyecto forma parte de mi portafolio de aprendizaje en ciberseguridad.  
-La meta es construir herramientas propias, documentar resultados y demostrar habilidades prácticas en redes, Linux y seguridad informática.
-
----
-
-## ✨ Autor
-**Walter Solutions** – Aprendiz de ciberseguridad desde Chile 🇨🇱
+./hxg_scan_pro.sh
