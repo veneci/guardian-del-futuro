@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>HXG Scan Pro - Informe de Red</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background: #f4f4f4; }
+        .container { max-width: 900px; margin: 0 auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        .info { background: #ecf0f1; padding: 15px; border-radius: 5px; margin-bottom: 20px; }
+        .device { background: #f9f9f9; border-left: 4px solid #3498db; margin: 15px 0; padding: 10px; border-radius: 5px; }
+        .device h3 { margin: 0; color: #2c3e50; }
+        table { width: 100%; border-collapse: collapse; margin: 10px 0; }
+        th, td { padding: 8px; border: 1px solid #ddd; text-align: left; }
+        th { background: #34495e; color: white; }
+        .footer { text-align: center; margin-top: 20px; font-size: 14px; color: #777; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>📡 HXG Scan Pro - Informe de Red</h1>
+    <div class="info">
+        <p><strong>Fecha:</strong> 04/09/2026 17:32:50</p>
+        <p><strong>Red escaneada:</strong> 192.168.1.0/24</p>
+        <p><strong>Dispositivos encontrados:</strong> 3</p>
+    </div>
+    <div class="device">
+        <h3>📌 Dispositivo: 192.168.1.1</h3>
+        <p><strong>Puertos TCP abiertos:</strong></p>
+        <pre>22/tcp    open     ssh          Dropbear sshd 2020.81 (protocol 2.0)
+80/tcp    open     http         mini_httpd 1.30 26Oct2018
+3517/tcp  open     802-11-iapp?</pre>
+    </div>
+    <div class="device">
+        <h3>📌 Dispositivo: 192.168.1.87</h3>
+        <p><strong>Puertos TCP abiertos:</strong> ✅ Ninguno</p>
+    </div>
+    <div class="device">
+        <h3>📌 Dispositivo: Interface:</h3>
+        <p><strong>Puertos TCP abiertos:</strong> ✅ Ninguno</p>
+    </div>
+    <div class="footer">
+        <p>Generado por HXG Scan Pro - Walter Solutions</p>
+    </div>
+</div>
+</body>
+</html>
