@@ -1,6 +1,11 @@
 
 ## 📡 HXG Scan Pro
 
+![Bash](https://img.shields.io/badge/Bash-5.2-blue?logo=gnu-bash)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-orange?logo=ubuntu)
+![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow)
+![Licencia](https://img.shields.io/badge/Licencia-MIT-green)
+
 **HXG Scan Pro** es un escáner de red escrito en Bash que:
 
 - Detecta automáticamente la red local (`192.168.x.0/24`).
