@@ -19,3 +19,9 @@
 ```bash
 chmod +x hxg_scan_pro.sh
 ./hxg_scan_pro.sh
+
+---
+
+## 📬 Contacto
+Si tienes problemas al ejecutar el script, escríbeme a **walter_aguirre2010@hotmail.com**  
+Te lo explico paso a paso y con ejemplos simples.
