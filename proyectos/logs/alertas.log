@@ -1,9 +1,6 @@
-🚨 ALERTA: Acceso a archivo sensible (/etc/passwd) desde 172.16.0.200
-🚨 ALERTA: Acceso a archivo sensible (/etc/passwd) desde 8.8.8.8
-🚨 ALERTA: Fuerza bruta SSH desde 172.16.0.200 (3 intentos)
+🚨 ALERTA: Acceso a archivo sensible (/etc/passwd) desde 192.168.1.100
 🚨 ALERTA: Acceso a archivo sensible (/etc/passwd) desde 172.16.0.200
 🚨 ALERTA: Acceso a archivo sensible (/etc/passwd) desde 10.0.0.5
-🚨 ALERTA: Fuerza bruta SSH desde 172.16.0.200 (4 intentos)
-🚨 ALERTA: Fuerza bruta SSH desde 10.0.0.5 (3 intentos)
-🚨 ALERTA: Fuerza bruta SSH desde 8.8.8.8 (3 intentos)
-🚨 ALERTA: Fuerza bruta SSH desde 172.16.0.200 (5 intentos)
+🚨 ALERTA: Acceso a archivo sensible (/etc/passwd) desde 10.0.0.5
+🚨 ALERTA: Acceso a archivo sensible (/etc/passwd) desde 8.8.8.8
+🚨 ALERTA: Escaneo de puertos desde 10.0.0.5 (5 eventos)
