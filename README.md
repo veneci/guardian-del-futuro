@@ -63,3 +63,17 @@ Te lo explico paso a paso y con ejemplos simples.
 
 Este proyecto está bajo la licencia MIT.  
 Puedes usar, modificar y distribuir el código libremente, siempre que mantengas la referencia al autor original.
+
+## 🛡️ Mini-SOC - Walter Solutions
+
+Mini-SOC para detección de ataques.
+
+### 📌 Detección de alertas
+- Fuerza bruta SSH.
+- Escaneo de puertos.
+- Acceso a archivos sensibles.
+
+### 🚀 Cómo usarlo
+```bash
+cd proyectos/mini-SOC
+./run_mini_soc.s
