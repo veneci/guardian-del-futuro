@@ -1,10 +1,10 @@
-# Mini-SOC - Walter Solutions
+# 🛡️ Mini-SOC - Walter Solutions
 
 Mini-SOC para detección de ataques. Proyecto personal de **Walter-Solutions**.
 
-## 📌 Objetivo
+## 📌 Descripción
 
-Detectar ataques comunes como:
+Este proyecto detecta automáticamente:
 - Fuerza bruta SSH.
 - Escaneo de puertos.
 - Acceso a archivos sensibles.
